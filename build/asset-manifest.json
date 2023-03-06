@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f989ec3.css",
+    "main.js": "/static/js/main.47f5fa7e.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/project4.png": "/static/media/project4.f0e2d749fcf4c6c4fb21.png",
+    "static/media/project7.png": "/static/media/project7.5062f4412dd8f6364dcc.png",
+    "static/media/project8.png": "/static/media/project8.bbe7cfb3b4ede19d7f7f.png",
+    "static/media/project2.png": "/static/media/project2.ae8ba32259a1824b09b0.png",
+    "static/media/Farid1.png": "/static/media/Farid1.710b942b4d3643f86ff3.png",
+    "static/media/project3.png": "/static/media/project3.cad62b26684b8cda91cd.png",
+    "static/media/project9.png": "/static/media/project9.3fec4a1c63d28c5a5b61.png",
+    "static/media/project5.png": "/static/media/project5.63943bd799dde296d8a7.png",
+    "static/media/Farid.jpg": "/static/media/Farid.172d654382c8c1ccc1e9.jpg",
+    "static/media/project1.png": "/static/media/project1.8945df9144271cd12f16.png",
+    "static/media/CV Farid Attamimi-2.pdf": "/static/media/CV Farid Attamimi-2.d5309d09d84c0acb3e3c.pdf",
+    "static/media/project6.png": "/static/media/project6.c3f63776cbbcdb892ebd.png",
+    "static/media/project10.png": "/static/media/project10.2446c0797f6356075347.png",
+    "static/media/project11.png": "/static/media/project11.1781b215d7411b514593.png",
+    "index.html": "/index.html",
+    "main.5f989ec3.css.map": "/static/css/main.5f989ec3.css.map",
+    "main.47f5fa7e.js.map": "/static/js/main.47f5fa7e.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f989ec3.css",
+    "static/js/main.47f5fa7e.js"
+  ]
+}
